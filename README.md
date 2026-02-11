@@ -27,7 +27,7 @@ The dashboard provides insights into:
 
 ---
 
-## 🌐 Live Dashboard
+## 🌐 Expore Dashboard
 
 You can view the interactive Power BI dashboard here:
 
