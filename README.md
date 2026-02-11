@@ -1,35 +1,22 @@
-# 📚 Penguin Books Analytics – Power BI Project
+📚 Penguin Books Sales Dashboard
 
-This repository contains my Power BI analytics project based on Penguin Books dataset.  
-The project focuses on analyzing book trends, ratings, pricing, authors, and publication insights using interactive dashboards.
+📌 Project Overview
 
----
+This project is an interactive Power BI dashboard built to analyze Penguin Books sales data.
+The dashboard provides insights into book sales performance by title, author, genre, country, and sales channel.
 
-## 📊 Project Overview
+It helps understand which books and regions generate the highest sales and how pricing and discounts impact revenue.
 
-The dashboard provides insights into:
+📈 Dashboard Features
+- Sales vs Quantity analysis by Book
+- Total sales by Book Title
+- Genre-wise sales distribution
+- Country-wise sales analysis (Australia, Canada, France, Germany, Italy, Spain, UK, USA)
+- Online vs Offline sales comparison
+- Drill-through feature for detailed book-level data
+- Filters for Genre, Author, Price, Quantity, and Sales Channel
 
-- 📖 Total Books and Authors
-- ⭐ Average Ratings Analysis
-- 💰 Price Distribution
-- 🏷️ Genre-wise Book Distribution
-- 🗓️ Publication Year Trends
-- 📈 Interactive Filters and Visual Exploration
+🔗 Live Dashboard
 
----
-
-## 🛠️ Tools Used
-
-- Power BI
-- Data Cleaning & Transformation
-- Data Visualization
-- DAX (Basic Measures & Calculations)
-
----
-
-## 🌐 Expore Dashboard
-
-You can view the interactive Power BI dashboard here:
-
-👉 **[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWE2YmY2NjgtZDMzZS00ZTI1LTg1NmQtNjQ1NTAzYTcyMzMzIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9)**
-
+👉 Power BI Public Link:
+https://app.powerbi.com/view?r=eyJrIjoiNWE2YmY2NjgtZDMzZS00ZTI1LTg1NmQtNjQ1NTAzYTcyMzMzIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
